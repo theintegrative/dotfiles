@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-scale '/home/theintegrative/Downloads/anastasiya-dalenka-xPXbvwSDKbY-unsplash.jpg' 

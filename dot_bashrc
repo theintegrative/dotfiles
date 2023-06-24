@@ -19,5 +19,7 @@ if [ -d ~/.bashrc.d ]; then
 	done
 fi
 
+~/.fehbg &
+
 unset rc
 . "$HOME/.cargo/env"
