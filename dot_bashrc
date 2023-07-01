@@ -23,3 +23,8 @@ fi
 
 unset rc
 . "$HOME/.cargo/env"
+
+alias copy="xclip -sel clip"
+alias cppwd="pwd | xclip -sel clip"
+alias cdpwd="echo cd $(pwd) | xclip -sel clip"
+

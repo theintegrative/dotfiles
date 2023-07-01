@@ -1,12 +1,9 @@
 git_protocol: ssh
-# What editor gh should run when creating issues, pull requests, etc. If blank, will refer to environment.
-editor: nvim 
+editor: nvim
 prompt: enabled
-pager:
-# Aliases allow you to create nicknames for gh commands
+pager: less
 aliases:
     co: pr checkout
-# The path to a unix socket through which send HTTP connections. If blank, HTTP traffic will be handled by net/http.DefaultTransport.
 http_unix_socket:
-# What web browser gh should use when opening URLs. If blank, will refer to environment.
-browser: firefox
+# For some reason firefox keeps crashing my computer
+browser: chromium

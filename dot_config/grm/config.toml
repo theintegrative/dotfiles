@@ -1,0 +1,191 @@
+[[trees]]
+root = "~/git"
+
+[[trees.repos]]
+name = "ansible-skeleton-role"
+worktree_setup = false
+
+[[trees.repos.remotes]]
+name = "origin"
+url = "git@github.com:theintegrative/ansible-skeleton-role.git"
+type = "ssh"
+
+[[trees.repos]]
+name = "content-vault"
+worktree_setup = false
+
+[[trees.repos.remotes]]
+name = "origin"
+url = "git@github.com:theintegrative/content-vault.git"
+type = "ssh"
+
+[[trees.repos]]
+name = "flip-spot-app"
+worktree_setup = false
+
+[[trees.repos.remotes]]
+name = "origin"
+url = "git@gitlab.com:flip-spot/flip-spot-app.git"
+type = "ssh"
+
+[[trees.repos]]
+name = "flip-spot-app.wiki"
+worktree_setup = false
+
+[[trees.repos.remotes]]
+name = "origin"
+url = "git@gitlab.com:flip-spot/flip-spot-app.wiki.git"
+type = "ssh"
+
+[[trees.repos]]
+name = "gitlab-server"
+worktree_setup = false
+
+[[trees.repos.remotes]]
+name = "origin"
+url = "git@github.com:theintegrative/gitlab-server.git"
+type = "ssh"
+
+[[trees.repos]]
+name = "git-repo-manager"
+worktree_setup = false
+
+[[trees.repos.remotes]]
+name = "origin"
+url = "git@github.com:theintegrative/git-repo-manager.git"
+type = "ssh"
+
+[[trees.repos]]
+name = "home-lab-setup"
+worktree_setup = false
+
+[[trees.repos.remotes]]
+name = "origin"
+url = "git@github.com:theintegrative/home-lab-setup.git"
+type = "ssh"
+
+[[trees.repos]]
+name = "main-driver-setup"
+worktree_setup = false
+
+[[trees.repos.remotes]]
+name = "origin"
+url = "git@github.com:theintegrative/main-driver-setup.git"
+type = "ssh"
+
+[[trees.repos]]
+name = "obsidian"
+worktree_setup = false
+
+[[trees.repos.remotes]]
+name = "origin"
+url = "git@github.com:theintegrative/obsidian.git"
+type = "ssh"
+
+[[trees.repos]]
+name = "obsidian-system"
+worktree_setup = false
+
+[[trees.repos.remotes]]
+name = "origin"
+url = "git@github.com:theintegrative/obsidian-system.git"
+type = "ssh"
+
+[[trees.repos]]
+name = "obsidian-system-content"
+worktree_setup = false
+
+[[trees.repos.remotes]]
+name = "origin"
+url = "git@github.com:theintegrative/obsidian-system-content.git"
+type = "ssh"
+
+[[trees.repos]]
+name = "OpenHRV"
+worktree_setup = false
+
+[[trees.repos.remotes]]
+name = "origin"
+url = "git@github.com:JanCBrammer/OpenHRV.git"
+type = "ssh"
+
+[[trees.repos]]
+name = "scalable-ansible-project-template"
+worktree_setup = false
+
+[[trees.repos.remotes]]
+name = "origin"
+url = "git@github.com:theintegrative/scalable-ansible-project-template.git"
+type = "ssh"
+
+[[trees.repos]]
+name = "scalable-ansible-vagrant-gitlab-ci-project-template"
+worktree_setup = false
+
+[[trees.repos.remotes]]
+name = "origin"
+url = "git@gitlab.com:tint-project-templates/scalable-ansible-vagrant-gitlab-ci-project-template.git"
+type = "ssh"
+
+[[trees.repos]]
+name = "scalable-ansible-vagrant-project-template"
+worktree_setup = false
+
+[[trees.repos.remotes]]
+name = "origin"
+url = "git@github.com:theintegrative/scalable-ansible-vagrant-project-template.git"
+type = "ssh"
+
+[[trees.repos]]
+name = "server-configuration"
+worktree_setup = false
+
+[[trees.repos.remotes]]
+name = "origin"
+url = "git@gitlab.com:flip-spot/server-configuration.git"
+type = "ssh"
+
+[[trees.repos]]
+name = "shell-scripts"
+worktree_setup = false
+
+[[trees.repos.remotes]]
+name = "origin"
+url = "git@github.com:theintegrative/shell-scripts.git"
+type = "ssh"
+
+[[trees.repos]]
+name = "supplement-tracking"
+worktree_setup = false
+
+[[trees.repos.remotes]]
+name = "origin"
+url = "git@github.com:theintegrative/supplement-tracking.git"
+type = "ssh"
+
+[[trees.repos]]
+name = "theintegrative-net"
+worktree_setup = false
+
+[[trees.repos.remotes]]
+name = "origin"
+url = "git@gitlab.com:main-website1/theintegrative-net.git"
+type = "ssh"
+
+[[trees.repos]]
+name = "theintegrative-net-config"
+worktree_setup = false
+
+[[trees.repos.remotes]]
+name = "origin"
+url = "git@gitlab.com:main-website1/theintegrative-net-config.git"
+type = "ssh"
+
+[[trees.repos]]
+name = "vagrant-project-template"
+worktree_setup = false
+
+[[trees.repos.remotes]]
+name = "origin"
+url = "git@github.com:theintegrative/vagrant-project-template.git"
+type = "ssh"
